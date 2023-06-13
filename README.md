@@ -21,5 +21,5 @@ Before running this application, ensure that you have the following dependencies
 - MongoDB
 
 ## Demo
-<img src='demo.gif' alt='demo' \>
+![demo-gif](https://github.com/SouravM9/MovieApp/blob/master/demo.gif)
 Thank you for using the MovieApp Application! We hope you enjoy it.
